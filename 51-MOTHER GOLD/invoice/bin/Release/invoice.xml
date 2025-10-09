@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+invoice
+</name>
+</assembly>
+<members>
+<member name="T:invoice.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:invoice.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:invoice.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptheaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptsessionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.sale_wtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.dtschemeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptheaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptsessionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.sale_wtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.dtschemeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptheaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.rptsessionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.sale_wtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsinvoice.dtschemeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsroder">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptsessionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptheaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.sale_wtDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptsessionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptheaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.sale_wtRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptsessionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsroder.rptheaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:invoice.dsroder.sale_wtRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

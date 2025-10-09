@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="invoice.exe" version="1.0.0.1" publicKeyToken="a9fa0c086abb7f0c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="chart.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="invoice" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="invoice.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="5.0.9.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="invoice.exe" size="446464">
+      <assemblyIdentity name="invoice" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XdsIkgWQ/puTR0t9eGdv+7KthhM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="chart.ico" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vexl01F2lzKXtk9IUCaOMB2TISE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=asterix5-PC\asterix5" issuerKeyHash="00ef8d20cf00a39928feb4449a8f1f1cbfadf2c1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pm+s9aSpj2iCGAghNyZzCai1qq4=</DigestValue></Reference></SignedInfo><SignatureValue>kQR2/kDq0FDh1tqXQ4tW6x/Kf9ytB0sFYZP8yHijvri25CUnJezKWWeEUZ9JSy3UAy6IFoRRyjG7ZLJmXR6tW/cou4p8g6UmbjXk6PJnBsx50fPYTxmtk8emxt++l+UFZ/MgOgKLAR1GYi9YqaZVweOpUb+iGiYwrNw3vj3PGB0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1LbuMP4jwvQ+aIZj942ouVIXBTuHiVkdLUxj+FiQahIp3PLwiIZQABW7ZnRDmfm2eMPn7IY6dsDl7uwoVp+p+8GGU61YmAISjuu6+KP7LW9dDn75h7nf5ptO2GfEQj2Gc4Cs6dJgGZ5efN7uKBfBEMUseXp2hzhW6TRDn2U1wh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="aeaab5a80973263721081882688fa9a4f5ac6fa6" Description="" Url=""><as:assemblyIdentity name="invoice.exe" version="1.0.0.1" publicKeyToken="a9fa0c086abb7f0c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=asterix5-PC\asterix5</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PN0vvUHJgAXu1EMq73kIRD39kgA=</DigestValue></Reference></SignedInfo><SignatureValue>nEkZe4Gnk+SY1kWuJPFGIzWN01k11hVkPGTOgCxkzYqil7DL9BQ87D7Mpg+KAeS2iB4xjswGZPj/XrHPN46bT2g5NxBJNm464vkElFKXFudxl/0umevu/w3ErYg6YOyiDSVUeDs5Bn3+L/2we43Fh2ZztWWgB770yjx/XbghMeQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1LbuMP4jwvQ+aIZj942ouVIXBTuHiVkdLUxj+FiQahIp3PLwiIZQABW7ZnRDmfm2eMPn7IY6dsDl7uwoVp+p+8GGU61YmAISjuu6+KP7LW9dDn75h7nf5ptO2GfEQj2Gc4Cs6dJgGZ5efN7uKBfBEMUseXp2hzhW6TRDn2U1wh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQlhg6gSdSirNGb+XZqH/UhjANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAYQBzAHQAZQByAGkAeAA1AC0AUABDAFwAYQBzAHQAZQByAGkAeAA1MB4XDTA4MTExODA1MjgyNloXDTA5MTExODExMjgyNlowMzExMC8GA1UEAx4oAGEAcwB0AGUAcgBpAHgANQAtAFAAQwBcAGEAcwB0AGUAcgBpAHgANTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1LbuMP4jwvQ+aIZj942ouVIXBTuHiVkdLUxj+FiQahIp3PLwiIZQABW7ZnRDmfm2eMPn7IY6dsDl7uwoVp+p+8GGU61YmAISjuu6+KP7LW9dDn75h7nf5ptO2GfEQj2Gc4Cs6dJgGZ5efN7uKBfBEMUseXp2hzhW6TRDn2U1wh0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBOl6+l+VMmQ16idwH9gi+fi10fJ6w5vaiSlzOhmE4+ESRNuTMqqbG04crt0RpZXq/b2/MiWhYvxrlLUG+ZfA7sa2/uJ8H4xEhBxDo5yAdOLRzU+nIMWZbXxu2fUZ60Jqg0g5otbmNOS5EwWCceVCvGXr2vyhKKbNhr+dzvU4HCOw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

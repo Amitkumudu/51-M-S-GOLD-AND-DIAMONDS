@@ -1,0 +1,983 @@
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Debug\invoice.pdb
+H:\gurukrupa\invoice\obj\Debug\invoice.exe
+H:\gurukrupa\invoice\obj\Debug\invoice.xml
+H:\gurukrupa\invoice\obj\Debug\invoice.pdb
+H:\gurukrupa\invoice\bin\Debug\invoice.exe.manifest
+H:\gurukrupa\invoice\bin\Debug\invoice.application
+H:\gurukrupa\invoice\bin\Debug\invoice.exe
+H:\gurukrupa\invoice\bin\Debug\invoice.pdb
+H:\gurukrupa\invoice\bin\Debug\invoice.xml
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.Shared.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\gurukrupa\invoice\bin\Debug\FlashControlV71.dll
+H:\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\gurukrupa\invoice\bin\Debug\stdole.dll
+H:\gurukrupa\invoice\bin\Debug\ShockwaveFlashObjects.dll
+H:\gurukrupa\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+H:\gurukrupa\invoice\obj\Debug\invoice.Form1.resources
+H:\gurukrupa\invoice\obj\Debug\invoice.Resources.resources
+H:\gurukrupa\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+H:\gurukrupa\invoice\obj\Debug\invoice.exe.manifest
+H:\gurukrupa\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.pdb
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\gurukrupa\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\gurukrupa\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.pdb
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\New folder\gurukrupa\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\new invoices\gurukrupa\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\new invoices\gurukrupa\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\new invoices\gurukrupa\invoice\obj\Debug\invoice.pdb
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.pdb
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\invoice_gst\gurukrupa\invoice\obj\Debug\invoice.application
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.exe
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.xml
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.pdb
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\invoice.exe.manifest
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\invoice.application
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\invoice.exe
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\invoice.pdb
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\invoice.xml
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\FlashControlV71.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\stdole.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.Form1.resources
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.Resources.resources
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.exe.manifest
+E:\invoice-crossmix\invoice_gst\gurukrupa_GST\invoice\obj\Debug\invoice.application
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.exe
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.xml
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.pdb
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\invoice.application
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\invoice.exe
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\invoice.pdb
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\invoice.xml
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\stdole.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.application
+C:\Users\manju\Desktop\NEW invoice\gurukrupa_GST\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.exe
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.xml
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.pdb
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\invoice.exe.manifest
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\invoice.application
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\invoice.exe
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\invoice.pdb
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\invoice.xml
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\FlashControlV71.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\stdole.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.Form1.resources
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.Resources.resources
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.exe.manifest
+D:\ASTERIX\invoice\latesh\sunil jewellers_srkt\invoice\obj\Debug\invoice.application
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.exe
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.xml
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.pdb
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\invoice.exe.manifest
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\invoice.application
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\invoice.exe
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\invoice.pdb
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\invoice.xml
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\FlashControlV71.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\stdole.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.Form1.resources
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.Resources.resources
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.exe.manifest
+D:\ASTERIX\invoice\latesh\sunil jewllers\sunil jewellers_srkt\invoice\obj\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main\invoice\obj\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\sunil jewellers_srkt_main - Copy\invoice\obj\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\invoice.application
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\invoice.exe
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\invoice.xml
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\for unrar\city gold\invoice\obj\Debug\invoice.application
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.exe
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.xml
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.pdb
+D:\NEW invoice\city gold\invoice\bin\Debug\invoice.exe.manifest
+D:\NEW invoice\city gold\invoice\bin\Debug\invoice.application
+D:\NEW invoice\city gold\invoice\bin\Debug\invoice.exe
+D:\NEW invoice\city gold\invoice\bin\Debug\invoice.pdb
+D:\NEW invoice\city gold\invoice\bin\Debug\invoice.xml
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\FlashControlV71.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\stdole.dll
+D:\NEW invoice\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.Form1.resources
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.Resources.resources
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.exe.manifest
+D:\NEW invoice\city gold\invoice\obj\Debug\invoice.application
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.exe
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.xml
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\invoice.application
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\invoice.exe
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\invoice.pdb
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\invoice.xml
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\Administrator\Desktop\city gold\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.pdb
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\city gold\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\invoice.application
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\invoice.exe
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\invoice.pdb
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\invoice.xml
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\stdole.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.Resources.resources
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.exe.manifest
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.application
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.exe
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.xml
+C:\Users\User\Desktop\city gold - Copy\invoice\obj\Debug\invoice.pdb
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.exe
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.xml
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.pdb
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\invoice.exe.manifest
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\invoice.application
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\invoice.exe
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\invoice.pdb
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\invoice.xml
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\FlashControlV71.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\stdole.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.Form1.resources
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.Resources.resources
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.exe.manifest
+E:\invoice-crossmix\INVOICE-GST-A4\city gold - Copy\invoice\obj\Debug\invoice.application
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\invoice.exe.manifest
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\invoice.application
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\invoice.exe
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\invoice.pdb
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\invoice.xml
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\FlashControlV71.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\stdole.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.Form1.resources
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.Resources.resources
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.exe.manifest
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.application
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.exe
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.xml
+E:\invoice-crossmix\INVOICE-GST-A4\city gold\invoice\obj\Debug\invoice.pdb
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\invoice.exe.manifest
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\invoice.application
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\invoice.exe
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\invoice.pdb
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\invoice.xml
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\FlashControlV71.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\stdole.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.Form1.resources
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.Resources.resources
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.exe.manifest
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.application
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.exe
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.xml
+D:\RESTORE\sahanatodaysinvoice\city gold\invoice\obj\Debug\invoice.pdb
+D:\RESTORE\sahanatodaysinvoice\city gold - Copy\invoice\obj\Debug\invoice.exe
+D:\RESTORE\sahanatodaysinvoice\city gold - Copy\invoice\obj\Debug\invoice.xml
+D:\RESTORE\sahanatodaysinvoice\city gold - Copy\invoice\obj\Debug\invoice.pdb
+D:\RESTORE\sahanatodaysinvoice\city gold -kasargodu\invoice\obj\Debug\invoice.exe
+D:\RESTORE\sahanatodaysinvoice\city gold -kasargodu\invoice\obj\Debug\invoice.xml
+D:\RESTORE\sahanatodaysinvoice\city gold -kasargodu\invoice\obj\Debug\invoice.pdb
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.exe
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.xml
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.pdb
+E:\city gold -kasargodu\invoice\bin\Debug\invoice.exe.manifest
+E:\city gold -kasargodu\invoice\bin\Debug\invoice.application
+E:\city gold -kasargodu\invoice\bin\Debug\invoice.exe
+E:\city gold -kasargodu\invoice\bin\Debug\invoice.pdb
+E:\city gold -kasargodu\invoice\bin\Debug\invoice.xml
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\city gold -kasargodu\invoice\bin\Debug\FlashControlV71.dll
+E:\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\city gold -kasargodu\invoice\bin\Debug\stdole.dll
+E:\city gold -kasargodu\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.Form1.resources
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.Resources.resources
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.exe.manifest
+E:\city gold -kasargodu\invoice\obj\Debug\invoice.application
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.exe
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.xml
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.pdb
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\invoice.exe.manifest
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\invoice.application
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\invoice.exe
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\invoice.pdb
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\invoice.xml
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\FlashControlV71.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\stdole.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.Form1.resources
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.Resources.resources
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.exe.manifest
+E:\asterix files\NEW invoice\city gold -kasargodu\invoice\obj\Debug\invoice.application
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.exe
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.xml
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.pdb
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\invoice.exe.manifest
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\invoice.application
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\invoice.exe
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\invoice.pdb
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\invoice.xml
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\FlashControlV71.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\stdole.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.Form1.resources
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.Resources.resources
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.exe.manifest
+E:\rajesh\jewel master\citygold\city gold -kasargodu\invoice\obj\Debug\invoice.application
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.exe
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.xml
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.pdb
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\invoice.exe.manifest
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\invoice.application
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\invoice.exe
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\invoice.pdb
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\invoice.xml
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.Shared.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\FlashControlV71.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\stdole.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\bin\Debug\ShockwaveFlashObjects.dll
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.Form1.resources
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.Resources.resources
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.exe.manifest
+E:\asterix files\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.application
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.exe
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.xml
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\MS GOLD\invoice\obj\Debug\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\FlashControlV71.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\stdole.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.Form1.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.Resources.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\FlashControlV71.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\stdole.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.Form1.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.Resources.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\FlashControlV71.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\stdole.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.Form1.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.Resources.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\MS GOLD-Peravoor\invoice\obj\Debug\invoice.application
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.application
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Shared.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\FlashControlV71.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\stdole.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\bin\Debug\ShockwaveFlashObjects.dll
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Form1.resources
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Resources.resources
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.application
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Form1.resources
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Resources.resources
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.xml
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.application
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.pdb
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.xml
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\FlashControlV71.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\stdole.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.application
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe
+D:\Daily_invoice_changes\updated invoice_2024\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.pdb
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.xml
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.pdb
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.application
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.exe
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.pdb
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\invoice.xml
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\FlashControlV71.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\stdole.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Form1.resources
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.Resources.resources
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MS GOLD-Peravoor\invoice\obj\Debug\invoice.application
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.exe
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.xml
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.pdb
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\invoice.application
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\invoice.exe
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\invoice.pdb
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\invoice.xml
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\FlashControlV71.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\stdole.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\bin\Debug\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.Form1.resources
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.Resources.resources
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.exe.manifest
+D:\Daily_invoice_changes\kumudu invoice_NEW_CUST\51-MOTHER GOLD\invoice\obj\Debug\invoice.application

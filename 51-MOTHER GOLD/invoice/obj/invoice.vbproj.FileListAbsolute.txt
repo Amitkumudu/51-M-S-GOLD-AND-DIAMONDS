@@ -1,0 +1,60 @@
+C:\passion\Invoice\MPS\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\MPS\invoice\bin\Release\invoice.application
+C:\passion\Invoice\MPS\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\MPS\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\MPS\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\MPS\invoice\obj\Release\ResolveAssemblyReference.cache
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CRTapprovalPrint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtdeliverybill_rep.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtdynamicreport.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Copy of crtreport.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtinsurance.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Copy of CrtinvoiceA4_dup.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtmetalstock.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtmetalstockprint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtpaymentvocucherPrint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtpaymentvoucher.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtpurchase.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtsalesreturnprint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.invoice_landscape_1.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.invoice_landscape_2.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.invoice_landscape_3.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Copy of rdupCrtinvoicebarcode.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtinvoicedeliveryA4_Dup.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtdupinvoicebarcode_order.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.duprajRptOrdernew.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtinvoiceA4.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtinvoicedeliveryA4.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtschemeadjustmentslip.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CrtschemeAdjustment_Print.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtinvoicebarcode_image.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtdeliverybill.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtinvoicebarcode_order.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtreport.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtinvoice_2.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Crtinvoice_1.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.CRTrepairINV.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.crtrepairPrint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.rajRptOrdernew.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.rajRptOrdernewP.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.rCrtinvoicebarcode.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.RCrtinvoicePrint.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.RPtpurchase.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Rptrepairwithoutbill.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.rptrepJob.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.r_dupCrtinvoicebarcode.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Rrptbranchorder.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Rrptrectvoucher.rpt
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.application
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\MPS\invoice\obj\Release\invoice.pdb
+D:\JM 916\Invoice\MPS\invoice\obj\Release\invoice.exe
+D:\JM 916\Invoice\MPS\invoice\obj\Release\invoice.xml
+D:\JM 916\Invoice\MPS\invoice\obj\Release\invoice.pdb

@@ -1,0 +1,173 @@
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Form1.resources
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Resources.resources
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe.manifest
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\invoice.application
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\invoice.pdb
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\invoice.xml
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\FlashControlV71.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\stdole.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe.manifest
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.application
+D:\JM 916\Invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\asterix technology\invoice copy\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+E:\asterix technology\invoice copy\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+E:\asterix technology\invoice copy\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe.manifest
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.application
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.pdb
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.xml
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\FlashControlV71.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\stdole.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Form1.resources
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Resources.resources
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe.manifest
+C:\Users\Sharath\Desktop\Ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.application
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe.manifest
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.application
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.pdb
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\invoice.xml
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\FlashControlV71.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\stdole.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Form1.resources
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Resources.resources
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe.manifest
+C:\Users\USER\Desktop\ganesh\ganesh\MP Jewellers HSR Layout\invoice\obj\Release\invoice.application
+C:\Users\USER\Desktop\ganesh\ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+C:\Users\USER\Desktop\ganesh\ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+C:\Users\USER\Desktop\ganesh\ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+D:\Invoice GST\Ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+D:\Invoice GST\Ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+D:\Invoice GST\Ganesh\invoice\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.xml
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\invoice.application
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\invoice.exe
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\invoice.xml
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\FlashControlV71.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\stdole.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Form1.resources
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.Resources.resources
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.application
+C:\Users\User\Desktop\invoicechanges\MP Jewellers HSR Layout\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.exe
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.xml
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\invoice.application
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\invoice.exe
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\invoice.pdb
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\invoice.xml
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\FlashControlV71.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\stdole.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.Form1.resources
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.Resources.resources
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.exe.manifest
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.application
+C:\Users\User\Desktop\invoicechanges\gurukrupa\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
